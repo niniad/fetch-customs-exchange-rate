@@ -5,3 +5,6 @@ __pycache__/
 venv/
 .idea/
 .vscode/
+
+# Downloaded CSV files (large data)
+downloaded_csv/
